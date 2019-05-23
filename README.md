@@ -1,5 +1,5 @@
-# Setup
-Build the Node.js app image with the following :
+# Setup <a href="https://paypal.me/tonymanpro?locale.x=es_XC"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
+Build the Node.js app image with the following : 
 
 ```
 docker-compose -f docker-compose.yml -f docker-compose.dev.yml build
